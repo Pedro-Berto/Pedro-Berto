@@ -1,4 +1,24 @@
-## Hi there 👋
+## Eae Tudo bom ? Bem vindo 👋
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Estou desenvolvendo estes conhecimentos
+<div>
+<img> align="center" alt="Python"  scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    </img>
+
+
+  
+</div>
 
 <!--
 **Pedro-Berto/Pedro-Berto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
