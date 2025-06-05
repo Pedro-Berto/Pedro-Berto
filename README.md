@@ -1,6 +1,6 @@
-### Eae tudo bom? Me chamo Pedro  
+### E aí, tudo certo? Me chamo Pedro, seja bem-vindo ao meu GitHub!  
 
-Sou um desenvolvedor focado na área de **Back-End** com conhecimentos em **Front-End**. Tenho experiência com as ferramentas **Visual Studio Code (VS Code)** e **Visual Studio**, conhecimento no framework **ASP.NET**.
+Sou um desenvolvedor focado na área de **Back-End** também com conhecimentos em **Front-End**. Tenho experiência com as ferramentas **Visual Studio Code (VS Code)** e **Visual Studio**, conhecimento no framework **ASP.NET**.Também possuo conhecimentos básicos no **Figma**.
 Atualmente, estou dedicado aos estudos de linguagens de programação e aprimorando constantemente minhas habilidades técnicas.
 <br>
 Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entregar soluções de qualidade.
@@ -15,7 +15,8 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
   
 - 🖥️ **Atualmente mais focado em:**
     <div style="display: inline">
-      <img width='50' height='50' src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />                                                                        
+      <img width='50' height='50' src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />   
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
       <img width='50' height='50' src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" />
       <img width='50' height='50' src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" />
       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -31,10 +32,31 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-#### 🧠 Outras linguagens que eu tenho conhecimento:
+
+
+
+
+#### 🧠 Outras linguagens e ferramentas que possuo conhecimento:
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img width='50' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
 </div>
+
+
+<div align="center">
+  <h2 style='color: #c4b5fd' align='center'>Estatísticas</h2>
+  <a href="https://github.com/Pedro-Berto">
+    <picture>
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Berto&show_icons=true&theme=dark&text_bold=false&count_private=true&ring_color=7733ff"/>
+    </picture>
+  </a>
+  <a href="https://github.com/Pedro-Berto">
+    <picture>
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Pedro-Berto&show_icons=true&theme=dark&text_bold=false&count_private=true"/>
+    </picture>
+  </a>  
+</div>  
