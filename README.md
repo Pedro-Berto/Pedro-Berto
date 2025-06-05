@@ -27,8 +27,8 @@
  ###
  
  <div align="left">
-   <a href="http://127.0.0.1:3000/Gmail.html" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+   <a href="" target="_blank">
+     <img src="![image](https://github.com/user-attachments/assets/b1559342-ef8f-42a3-8892-6d5b739bb489)" width="60" height="40" alt="gmail logo"  />
    </a>
    <a href="https://www.instagram.com/pedrinho_bg05/" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
