@@ -24,12 +24,12 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
 
 
 ### 📬 Entre em contato comigo:
-&nbsp;<a href="https://www.linkedin.com/in/pedro-berto-022755303/">
+<a href="https://www.linkedin.com/in/pedro-berto-022755303/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/pedrinho_bg05?igsh=am8ydGprOGVxMGU2">
+</a>
+<a href="https://www.instagram.com/pedrinho_bg05?igsh=am8ydGprOGVxMGU2">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+</a>
 
 #### 🧠 Outras linguagens que eu tenho conhecimento:
 <div style="display: inline">
