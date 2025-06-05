@@ -4,10 +4,8 @@ Atualmente focado nos estudos de linguagens de programações e aperfeiçoando c
 - 🏫 **Graduação:** Atualmente estou cursando Engenharia de Software.  
 - 👨‍💻​ **Sempre buscando melhorias !**
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <div>
-    <p>🖥️ <strong>Atualmente mais focado em:</strong></p>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVpb2x0Y2Joemd3MHZiZTN4MHd2dm0wY3hrdmV6em9oMjU1a2FiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+- 🖥️ **Atualmente mais focado em:**
     <div style="display: inline">
       <img width='50' height='50' src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" />                                                                        
       <img width='50' height='50' src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" />
@@ -15,13 +13,8 @@ Atualmente focado nos estudos de linguagens de programações e aperfeiçoando c
       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
       <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
     </div>
-  </div>
+  
 
- <div style="margin-left: 20px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVpb2x0Y2Joemd3MHZiZTN4MHd2dm0wY3hrdmV6em9oMjU1a2FiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="150"/>
-  </div>
-
----
 
 ### 📬 Entre em contato comigo:
 &nbsp;<a href="https://www.linkedin.com/in/pedro-berto-022755303/">
