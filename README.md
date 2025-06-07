@@ -54,9 +54,4 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Berto&show_icons=true&theme=dark&text_bold=false&count_private=true&ring_color=7733ff"/>
     </picture>
   </a>
-  <a href="https://github.com/Pedro-Berto">
-    <picture>
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Pedro-Berto&show_icons=true&theme=dark&text_bold=false&count_private=true"/>
-    </picture>
-  </a>  
 </div>  
