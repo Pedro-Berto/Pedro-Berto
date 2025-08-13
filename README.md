@@ -15,7 +15,7 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
   
 - 🖥️ **Atualmente mais focado em:**
     <div style="display: inline">
-      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
+      <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
     </div>
 
 
