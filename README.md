@@ -1,6 +1,6 @@
 ### E aí, tudo certo? Me chamo Pedro, seja bem-vindo ao meu GitHub!  
 
-Sou um desenvolvedor focado na área de **Back-End** também com conhecimentos em **Front-End**. Tenho experiência com as ferramentas **Visual Studio Code (VS Code)** e **Visual Studio**, conhecimento no framework **ASP.NET**.Também possuo conhecimentos básicos no **Figma**.
+Sou um desenvolvedor focado na área de **Back-End** também com conhecimentos em **Front-End**. Tenho experiência com a ferramenta **Visual Studio Code (VS Code)** e possuo conhecimentos básicos no **Figma**. Tenho conhecimento no framework **ASP.NET**.
 Atualmente, estou dedicado aos estudos de linguagens de programação e aprimorando constantemente minhas habilidades técnicas.
 <br>
 Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entregar soluções de qualidade.
