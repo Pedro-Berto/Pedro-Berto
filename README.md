@@ -20,7 +20,7 @@ Sou uma pessoa adaptável, sempre preparado para encarar novos desafios e entreg
 
 
 ### 📬 Entre em contato comigo:
-<a href="https://www.linkedin.com/in/pedro-berto-gon%C3%A7alves-022755303/">
+<a href="https://www.linkedin.com/in/pedro-berto-022755303/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/pedrinho_bg05?igsh=am8ydGprOGVxMGU2">
